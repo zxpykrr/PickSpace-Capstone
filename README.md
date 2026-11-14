@@ -7,7 +7,7 @@ It estimates a fair price with machine learning, shows whether a listing is chea
 
 > Senior project, College of Computing, Khon Kaen University (Business Information Technology). Team of 2.
 >
-> This repository documents the project. The application code is maintained in the team's project repositories, so the folder names below describe that codebase.
+> This repository documents the project. The price-model training script is included in [`code/price_model`](code/price_model); the rest of the application code is maintained in the team's project repositories, so the folder names below describe that codebase.
 
 ---
 
